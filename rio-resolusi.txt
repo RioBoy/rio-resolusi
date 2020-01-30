@@ -1,0 +1,4 @@
+Rio Resolusi
+- Konsisten untuk belajar programming 3x seminggu maksimal 2-3 jam sehari
+- Mendapat sebuah projek dan dikerjakan dengan baik
+- Dapat menguasai bahasa PHP dengan baik terutama Codeigniter
