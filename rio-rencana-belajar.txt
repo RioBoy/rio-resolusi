@@ -6,6 +6,7 @@ RENCANA BELEJAR SAYA
     ^ Aplikasi Crud Sederhana
 - Belajar Framework Java
   ^ Spring
+  ^ Grails
 - Belajar Python
 - Belajar Vue.js
 - Belajar Java OOP
