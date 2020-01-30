@@ -3,7 +3,9 @@ RENCANA BELEJAR SAYA
 - Belajar Laravel
   * REST API
   * Membuat aplikasi dengan Laravel
+    ^ Membuat aplikasi Kopersi Simpan Pinjam
+    ^ Membuat apilkasi Sistem Informasi Sederhana
 - Belajar Framework Java
-- Belajar Python
+  ^ Spring
 - Belajar Vue.js
 - Belajar Java OOP
