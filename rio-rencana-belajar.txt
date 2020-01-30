@@ -1,0 +1,8 @@
+RENCANA BELEJAR SAYA
+
+- Belajar Laravel
+  * REST API
+  * Membuat aplikasi dengan Laravel
+- Belajar Python
+- Belajar Vue.js
+- Belajar Java OOP
