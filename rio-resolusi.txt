@@ -1,6 +1,12 @@
 Rio Resolusi
-- Konsisten untuk belajar programming 3x seminggu maksimal 2-3 jam sehari
-- Mendapat sebuah projek dan dikerjakan dengan baik
-- Dapat menguasai bahasa PHP dengan baik terutama Codeigniter
-- Bisa membeli barang yang saya suka dengan hasil dari kerja projek
-- Mengupload sebuah projek ke internet
+- Konsisten untuk belajar programming 3x seminggu maksimal 2-3 jam sehari (masih dilaksanakan sampai sekarang)
+- Mendapat sebuah projek dan dikerjakan dengan baik (belum tercapai)
+- Dapat menguasai bahasa PHP dengan baik terutama Codeigniter (sudah lumayan memahami, terutama untuk CI 3)
+- Bisa membeli barang yang saya suka dengan hasil dari kerja projek (belum tercapai)
+- Mengupload sebuah projek ke internet (belum tercapai)
+- Dapat menguasai bahasa JavaScript dan minimal menguasai salah satu framework JS (sedang belajar meguasainya)
+- Dapat menguasai salah framework untuk Front-End Developer (sedang belajar React JS)
+- Dapat menyelesaikan program / aplikasi TA (sedang dalam rencana pengerjaan)
+- Memperdalam materi tentang PWA dan NodeJS
+- Memiliki sebuah ruangan kerja sendiri berserta dengan alat untuk bekerja (impian)
+- Memiliki sebuah Macbook pro (impian)
