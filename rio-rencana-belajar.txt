@@ -1,13 +1,17 @@
 RENCANA BELEJAR SAYA
 
-- Belajar Laravel
+- Belajar Laravel (belum dipelajari)
   * REST API
   * Membuat aplikasi dengan Laravel
     ^ Aplikasi Crud Sederhana
-- Belajar Framework Java
+- Belajar Framework Java (belum dipelajari)
   ^ Spring
   ^ Grails
-- Belajar Python
-- Belajar Vue.js
-- Belajar Java OOP
-- Belajar Framework CSS selain Bootstrap
+- Belajar Python (sudah pernah dipelajari, dan akan dilanjutkan)
+- Belajar Vue.js (sudah pernah dipelajari, dan akan dilanjutkan)
+- Belajar Java OOP (sudah pernah dipelajari, dan akan dilanjutkan)
+- Belajar Framework CSS selain Bootstrap (sudah pernah dipelajari, dan akan dilanjutkan)
+- Belajar Framework JS seperti Express JS (sedang dalam proses)
+- Belajar Framework untuk Front-End Developer (sedang dalam proses)
+- Belajar lebih lanjut mengenai OOP (sedang dalam proses)
+- Belajar Bahasa Inggris dan menguasainya (sedang dalam proses)
